@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const BASE_URL = "https://scraper-two-pink.vercel.app/_/backend/api";
+const BASE_URL = "https://scraper-kit-task.vercel.app/_/backend/api";
 
 const api = axios.create({
   baseURL: BASE_URL,
